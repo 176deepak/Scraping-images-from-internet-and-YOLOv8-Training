@@ -1,0 +1,9 @@
+# data files [train , valid]
+path: data/processed_data/images  # dataset root dir
+train: train/  # train images 
+val: valid/ # val images  
+
+# Classes
+names:
+  0: Car
+  1: Bus
