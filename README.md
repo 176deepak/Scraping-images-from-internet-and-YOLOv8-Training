@@ -1,7 +1,6 @@
-<center><h1 style="color:purple; font-family: Georgia, serif; font-weight: bold">Machine Learning Internship Assignment</h1></center>
-<center><h1 style="color:purple; font-family: Georgia, serif; font-weight: bold">Shorea Softech Private Limited</h1></center>
+<center><h1 style="color:purple; font-family: Georgia, serif; font-weight: bold">Scrape Images from Internet & Train a CV model on these Images</h1></center>
 
-## Given Assignment
+## Tasks
 <hr>
 
 #### `Task 1: Data Collection`
@@ -16,7 +15,7 @@ Utilise Google Colab to train an object detection model on the annotated dataset
 Prepare a brief document that describes the steps taken for each task and results of the training model (hyperparameters used, performance metrics).
 
 
-## Assignment Task files and Folders
+## Task files and Folders
 <hr>
 
 #### `File 1: data_collection.ipynb`
